@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go and Typescript**
 
-- 👨‍💻 All of my projects are available at [joshuaweston.uk](joshuaweston.uk)
+- 👨‍💻 All of my projects are available at [joshuaweston.uk](https://joshuaweston.uk)
 
 - 📫 How to reach me **portfolio.joshuaweston@gmail.com**
 
