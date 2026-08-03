@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Go and Typescript**
 
+- 🎓 UWE Games Technology Graduate (BSc Hons)
+
 - 👨‍💻 All of my projects are available at [joshuaweston.uk](https://joshuaweston.uk)
 
 - 📫 How to reach me **portfolio.joshuaweston@gmail.com**
